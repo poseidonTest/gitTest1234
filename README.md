@@ -1,4 +1,6 @@
 # gitTest1234
+![아기 고양이](./images/cat.jpg)
+
 1. ***원격***저~장소~
 
 2. [연결](http://naver.com)
