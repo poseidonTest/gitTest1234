@@ -1,5 +1,6 @@
 # gitTest1234
 ![아기 고양이](./images/cat.jpg)
+
 ---
 [Google](https://google.com,"검색 사이트")
 ---
@@ -26,7 +27,7 @@
 ---
 1. ***원격***저~장소~
 
-2. [연결](http://naver.com)
+2. [연결](http://naver.com,"네이버")
 
 6. [다음](http://daum.net,"다음으로 연결")
 
