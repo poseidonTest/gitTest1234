@@ -8,9 +8,11 @@
    + pull vs fetch
      - pull
      - fetch
-   +  pull
-   +  fetch
 + 협업하기
+   - origin
+   - dev
+      + whta
+      + who
 ---
 1. ***원격***저~장소~
 
